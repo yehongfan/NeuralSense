@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Parkinson's Disease Detection using EEG Data
 
 This project implements machine learning models to detect Parkinson's disease using electroencephalogram (EEG) data.
@@ -81,3 +82,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - EEG-based Parkinson's disease detection studies
 - Machine learning in neuroimaging
 - Signal processing for biomedical applications 
+=======
+# NeuralSense
+>>>>>>> a5969b0c268103332f472315fd3354b46b07d487
